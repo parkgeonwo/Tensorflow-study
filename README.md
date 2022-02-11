@@ -9,4 +9,6 @@ Tensorflow를 이용하여 여러가지 모델 생성
 6. fashion mnist 모델로 custom-data(tensorflow 1.0 버전으로 이미지 변환(전처리) ) 적용
 7. cifar10 데이터로 모델 생성
 8. batch-normalization을 적용한 경우 / 적용하지 않은 경우 비교
+  - Dropout 구현하기
+  - earlystopping 구현하기
 
