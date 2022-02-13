@@ -12,4 +12,4 @@ Tensorflow를 이용하여 여러가지 모델 생성
    - batch-normalization을 적용한 경우 / 적용하지 않은 경우 비교
    - Dropout 구현하기
    - earlystopping 구현하기
-
+9. CNN 모델 구현하기
